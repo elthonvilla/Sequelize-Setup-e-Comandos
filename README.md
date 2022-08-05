@@ -1,0 +1,1 @@
+# Sequelize-Setup-e-Comandos
